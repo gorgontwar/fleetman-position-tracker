@@ -19,5 +19,5 @@ public class TestTimestampParsing
 		// Format: EEE MMM dd HH:mm:ss zzz yyyy		
 		Position position = new Position("23", "21", "Monday January 75 aa:15:00 +0000 2017");
 	}
-	
+	 
 }
